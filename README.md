@@ -2,15 +2,15 @@
   I'm Mohamed Ali Mejdi AKA Dali2g</h1>
 <h3 align="center">A JavaScript Enthusiast</h3>
 <img align="right" alt="eventloop" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--05Fi8vBq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/42eatw03fcha0e1qcrf0.gif"
-- 🔭 I’m currently working on **Web app projects**
+🔭 I’m currently working on **Web app projects**
 
-- 💬 Ask me about **Javascript,NodeJS**
+💬 Ask me about **Javascript,NodeJS**
 
-- 📫 How to reach me **mamejdi12@gmail.com**
+📫 How to reach me **mamejdi12@gmail.com**
 
-- 📄 Know about my experiences [https://file.io/mDLS5YeKfNbs](https://file.io/mDLS5YeKfNbs)
+📄 Know about my experiences [https://file.io/mDLS5YeKfNbs](https://file.io/mDLS5YeKfNbs)
 
-- ⚡ Fun fact **"Stewardesses" is the longest word that is typed with only the left hand(I'm left-handed😋)**
+⚡ Fun fact **"Stewardesses" is the longest word that is typed with only the left hand(I'm left-handed😋)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
