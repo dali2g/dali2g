@@ -1,4 +1,5 @@
-<h1 align="center">Hey 👋 <br> I'm Mohamed Ali Mejdi AKA Dali2g</h1>
+
+<h1 align="center">Hi Folks<img align "center" width="50" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" <br><br>I'm Mohamed Ali Mejdi AKA Dali2g</h1>
 <h3 align="center">A JavaScript Enthusiast</h3>
 <img align="right" alt="eventloop" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--05Fi8vBq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/42eatw03fcha0e1qcrf0.gif"
 
