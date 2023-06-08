@@ -9,7 +9,7 @@
 
 📫 How to reach me **mamejdi12@gmail.com**
 
-📄 Know about my experiences https://docs.google.com/document/d/1IXovsfbAA7Owm7yQSJcg1par8wXAAfJucTViwaO-094/edit?usp=sharing
+📄 Know about my experiences https://drive.google.com/file/d/1znL26JmPyvSAS1pZ-vWMlZUu4jhvqRZC/view?usp=sharing
 
 ⚡ Fun fact **"Stewardesses" is the longest word that is typed with only the left hand(I'm left-handed😋)**
 
