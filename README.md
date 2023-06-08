@@ -11,7 +11,7 @@
 
 📄 Know about my experiences https://docs.google.com/document/d/1IXovsfbAA7Owm7yQSJcg1par8wXAAfJucTViwaO-094/edit?usp=sharing
 
-- ⚡ Fun fact **"Stewardesses" is the longest word that is typed with only the left hand(I'm left-handed😋)**
+⚡ Fun fact **"Stewardesses" is the longest word that is typed with only the left hand(I'm left-handed😋)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
